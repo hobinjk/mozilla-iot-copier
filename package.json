@@ -1,0 +1,23 @@
+{
+  "name": "copier",
+  "version": "1.0.0",
+  "description": "webthing-thingy52 =================",
+  "main": "copier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hobinjk/copier.git"
+  },
+  "author": "hobinjk@mit.edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hobinjk/copier/issues"
+  },
+  "homepage": "https://github.com/hobinjk/copier#readme",
+  "dependencies": {
+    "ws": "^7.0.0"
+  }
+}
